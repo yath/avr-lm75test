@@ -1,0 +1,6 @@
+Just a little test program for LM75 via I²C.
+
+You'll need the "common" submodule for building;
+just type
+ $ git submodule init
+ $ git submodule update
